@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "44714284237",
+    "project_id": "detectequit-d1946",
+    "storage_bucket": "detectequit-d1946.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44714284237:android:5fb7512fd2ef5cd7f68584",
+        "android_client_info": {
+          "package_name": "com.example.detect_equit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44714284237-i89uepvbjvo31plffhn0gavbsa65dth1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.detect_equit",
+            "certificate_hash": "2ecc7500dbfff9a55cad29a32ede16e6bdd5487b"
+          }
+        },
+        {
+          "client_id": "44714284237-gi6a39b0jqrfmvpo774bsipmthr10q8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCouTY0KXUUYVAVkvKqUTzN7O1EeZMpfCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44714284237-gi6a39b0jqrfmvpo774bsipmthr10q8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
