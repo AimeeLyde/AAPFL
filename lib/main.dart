@@ -59,8 +59,8 @@ class _DetectInformationState extends State<DetectInformation> {
   initState() {
     super.initState();
     initTts();
-   // FirebaseFirestore.instance.collection("DetectEquit").doc("0013a20041a72946")
-      //  .snapshots().listen((event)=> _speak());
+    FirebaseFirestore.instance.collection("DetectEquit").doc("0013a20041a72946")
+       .snapshots().listen((event)=> _speak());
     FirebaseFirestore.instance.collection("DetectEquit").doc("0013a20041a713b4")
         .snapshots().listen((event)=> _speak2());
   }
